@@ -8,4 +8,6 @@ This is my second EDA made studying the following problem statement:
 
 I have also applied codes to describe the data, cleaning the data, manipulate the data, as well as producing graphical representation to further answering the problem statement.
 
+Working further, I have created a Power BI Dashboard for the analysis that was done in the Jupyter Notebook for further clarification on the variables that are observed. I have uploaded the dashboard in pbix files as well as pdf file for reference.
+
 Do let me know if there;s anything I can work on to improve on this notebook! :)
